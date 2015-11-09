@@ -102,7 +102,7 @@ Public Class frmMainMenu
     End Sub
 
     Private Sub mnuToolsModifyForms_Click(sender As Object, e As EventArgs) Handles mnuToolsModifyForms.Click
-
+        RemoveHandler fish test
     End Sub
 
     Private Sub SelectLanguageToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles SelectLanguageToolStripMenuItem.Click
