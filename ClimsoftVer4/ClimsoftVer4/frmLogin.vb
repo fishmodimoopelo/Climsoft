@@ -51,6 +51,7 @@ Public Class frmLogin
             ' Dim line As String
             Dim connectstr As String
             Dim caption As String
+            Dim fish As String
 
             ' Read from the configuration file
             'line = sr.ReadLine()
